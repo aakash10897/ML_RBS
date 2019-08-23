@@ -1,0 +1,48 @@
+
+BLOP biggest string object like biginteger
+
+
+
+##################33
+data types
+1. int64
+2. float64
+3. bool 
+4. object
+5. dateTime 
+
+
+
+Lists  -> dictionary -> numpy array -> Series -> DataFrame
+
+practise
+
+https://www.kaggle.com/mchirico/montcoalert
+
+
+
+
+											MACHINE LEARNING
+rule based learning
+
+input+logic -> result
+
+machine learning
+
+input(history) + output ->logic
+
+input(new) + logic -.prediction
+training data=70% training + 30% validation
+
+
+
+types of data
+1. numeric
+2. categorical
+
+numerical and categorical can be
+ordinal and nominal data
+
+
+
+PCA PRINCIPAL COMPONENT ANALYSIS IS A TECHNIQUE TO REDUCE DIMENSIONALY
